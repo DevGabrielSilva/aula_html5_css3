@@ -1,0 +1,36 @@
+body {
+    background: #DAF7A6;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: justify;
+}
+
+header {
+    margin-top: 70px;
+}
+
+h1 {
+    color: orangered;
+    font-family: fantasy;
+}
+
+h2 {
+    font-family: fantasy;
+}
+
+p {
+    font-size: 20px;
+}
+
+.img_padrao {
+    margin-bottom: 20px;
+    width: 400px;
+}
+
+footer {
+    margin-bottom: 30px;
+}
+
+.icone {
+    width: 30px;
+}
